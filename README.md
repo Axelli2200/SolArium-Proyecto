@@ -1,5 +1,4 @@
 # ☀️ SolArium - Sitio Web Oficial
-
 Este proyecto corresponde al **Trabajo Final** de la asignatura, desarrollado por **Víctor Obopol**. 
 
 Consiste en el diseño y desarrollo de un sitio web completo, responsivo y optimizado para el proyecto "SolArium".
